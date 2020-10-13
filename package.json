@@ -1,0 +1,11 @@
+{
+  "name": "modwhere",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "modwhere": "./modwhere.js"
+  },
+  "keywords": [],
+  "author": "Lenar Zakirov",
+  "license": "ISC"
+}
