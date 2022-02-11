@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 const fs = require('fs');
 
-const ROOT_DIR = 'E:/'; // Должен завершаться слэшем
+const ROOT_DIR = 'C:/Saby/'; // Должен завершаться слэшем
 const metaPathResolver = (rootDir, standDir) => `${rootDir}${standDir}/inside/online-inside/meta.info`;
 
 class MyError extends Error {}
